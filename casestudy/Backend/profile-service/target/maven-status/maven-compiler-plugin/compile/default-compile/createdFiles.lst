@@ -1,0 +1,9 @@
+com\profile\service\ProfileServiceImp.class
+com\profile\repo\UserRepo.class
+com\profile\exception\CatalogExceptionHandler.class
+com\profile\ProfileApplication.class
+com\profile\exception\CatalogRequestException.class
+com\profile\model\User.class
+com\profile\service\ProfileService.class
+com\profile\exception\CatalogException.class
+com\profile\resource\UserController.class
